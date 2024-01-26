@@ -2,7 +2,7 @@
 A history constructed of (most of) the live555 release tarballs.<br />
 Please note:  This repository is merely for educational and historical purposes.  It is not designed to be used in production.  For production ready code, please use the latest source available from the [Official Main Site](http://www.live555.com/liveMedia/).
 
-This is similar to [Ray Lehtiniemi's Live555 repo](https://github.com/rayl/live555) but more up to date and with release tarballs along the way.  Some of the release tarballs are no longer available.  See https://wx3sweden.se/live555-archive/archive-status.txt for more info.
+This repository is similar to [Ray Lehtiniemi's Live555 repository](https://github.com/rayl/live555) but more up to date and with release tarballs along the way.  Some of the release tarballs are no longer available.  See https://wx3sweden.se/live555-archive/archive-status.txt for more info.
 
 The source tarballs were retrieved from: 
 * https://wx3sweden.se/live555-archive/
